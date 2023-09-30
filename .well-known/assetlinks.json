@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "MagicShake",
+    "namespace": "android_app",
     "package_name": "app.magicshake.mobile.customer",
     "sha256_cert_fingerprints":
     ["E7:AE:1E:77:18:91:28:5F:8C:27:A4:00:D7:FC:3C:7F:E4:04:8B:08:A6:8C:DF:44:AA:E8:00:CA:F3:F1:25:F4"]
