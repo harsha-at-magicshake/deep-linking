@@ -3,16 +3,6 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "app.magicshake.mobile.customer",
-      "sha256_cert_fingerprints": [
-        "E7:AE:1E:77:18:91:28:5F:8C:27:A4:00:D7:FC:3C:7F:E4:04:8B:08:A6:8C:DF:44:AA:E8:00:CA:F3:F1:25:F4"
-      ]
-    }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
       "package_name": "com.magicshake.mobile.customer",
       "sha256_cert_fingerprints": [
         "49:C8:E9:7E:2A:60:3D:78:28:FF:1B:5F:3A:9B:BC:B1:98:71:EF:D2:ED:19:48:10:12:DE:99:42:7D:78:93:3B"
