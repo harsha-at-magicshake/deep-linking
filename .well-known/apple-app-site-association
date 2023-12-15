@@ -1,10 +1,12 @@
 {
   "applinks": {
-      "apps": [],
-      "details": [
+    "apps": [],
+    "details": [
       {
         "appID": "WFTQR68BS7.app.magicshake.mobile.customer",
-        "paths": ["*"]
+        "paths": [
+          "/"
+        ]
       }
     ]
   }
